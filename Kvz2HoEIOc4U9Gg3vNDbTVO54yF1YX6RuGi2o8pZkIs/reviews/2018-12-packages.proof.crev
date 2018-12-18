@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-18T16:24:21.464471695+01:00"
+from:
+  id-type: crev
+  id: Kvz2HoEIOc4U9Gg3vNDbTVO54yF1YX6RuGi2o8pZkIs
+  url: "https://github.com/hirschenberger/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: modbus
+  version: 1.0.0
+  digest: NuJL8LmGfGVEqOIXoWJ1wddpoTPr3StbF9QtqzSh-T0
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: "Disclaimer: I'm the author of this crate"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+gogxH76vzRm0LMsol-FC4FWrrHdAqEMgUORZ6MuEH8_YRlBclGZ8B7ZEfC9sD0mW0rBQ6O3MOL4nTIvzHXhhAQ
+-----END CREV PACKAGE REVIEW-----
+
